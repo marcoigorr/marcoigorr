@@ -1,4 +1,8 @@
-### Stocazzo 👋
+### Newbie game-hacking programmer 👋
+
+- 🔭 I’m currently working on [**20MinutesTillDawn cheats**](https://github.com/marcoigorr/20MTD-igorr) (Steam version)
+
+- 😄 Pronouns: Sto / Cazzo
 
 <!--
 **marcoigorr/marcoigorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
