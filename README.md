@@ -1,6 +1,8 @@
 ### Newbie game-hacking programmer 👋
 
-- 🔭 I’m currently working on [**20MinutesTillDawn cheats**](https://github.com/marcoigorr/20MTD-igorr) (Steam version)
+- 💻 I’m currently working on [**20MinutesTillDawn cheats**](https://github.com/marcoigorr/20MTD-igorr) (Steam version)
+
+- :books: Trying to learn Direct3D...
 
 - 😄 Pronouns: Sto / Cazzo
 
