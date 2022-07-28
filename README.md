@@ -1,6 +1,6 @@
 ### Newbie game-hacking programmer 👋
 
-- 💻 I’m currently working on [**20MinutesTillDawn cheats**](https://github.com/marcoigorr/20MTD-igorr) (Steam version)
+- 💻 I’m currently working on [**Bo3 Cheats**](https://github.com/marcoigorr/Bo3-igorr) (Steam version)
 
 - :books: Trying to learn Direct3D...
 
