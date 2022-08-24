@@ -1,6 +1,6 @@
 ### Newbie game-hacking programmer 👋
 
-- 💻 I’m currently working on a site like a psy programmer
+- 💻 I’m currently working on a site
 
 - :books: Trying to learn Direct3D...
 
