@@ -1,6 +1,6 @@
 ### Newbie game-hacking programmer 👋
 
-- 💻 I’m currently working on a site
+- 💻 I’m currently working on a site and DirectX9 with ImGUI
 
 - :books: Trying to learn Direct3D...
 
