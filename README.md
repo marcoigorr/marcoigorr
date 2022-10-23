@@ -1,6 +1,6 @@
 ### Newbie game-hacking programmer 👋
 
-- 💻 Studying 
+- 💻 Studying and coding insanity with C++
 
 - :books: Trying to learn Direct3D...
 
