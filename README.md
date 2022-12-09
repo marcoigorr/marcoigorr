@@ -1,8 +1,6 @@
 ### Newbie game-hacking programmer 👋
 
-- 💻 Studying and coding insanity with C++
-
-- :books: Trying to learn Direct3D...
+- 💻 Studying and coding mostly for school
 
 <!--
 **marcoigorr/marcoigorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
