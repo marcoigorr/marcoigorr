@@ -1,6 +1,8 @@
 ### Newbie game-hacking programmer 👋
 
-- 💻 Studying and coding mostly for school
+- 💻 Studying for TOLC-I
+- 🔭 Working with Wordpress
+- ⚡ Making cheats when free
 
 <!--
 **marcoigorr/marcoigorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
