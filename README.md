@@ -1,8 +1,8 @@
 ### Newbie game-hacking programmer 👋
 
 - 💻 Studying for TOLC-I
-- 🔭 Working on PhysicsEngineD3D11
 - ⚡ Making cheats when free
+- 🥁 Drummer
 
 <!--
 **marcoigorr/marcoigorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
