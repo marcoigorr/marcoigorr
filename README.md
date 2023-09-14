@@ -1,6 +1,5 @@
 ### Newbie game-hacking programmer 👋
 
-- 💻 Studying for TOLC-I
 - ⚡ Making cheats when free
 - 🥁 Drummer
 
