@@ -2,7 +2,7 @@
 
 - ⚡ Making cheats when free
 - 🥁 Drummer
-- Astronomy at Unipd
+- 🛰️ Astronomy at Unipd
 
 <!--
 **marcoigorr/marcoigorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
